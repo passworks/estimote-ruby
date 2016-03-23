@@ -6,8 +6,8 @@ require 'estimote/version'
 Gem::Specification.new do |spec|
   spec.name          = "estimote"
   spec.version       = Estimote::VERSION
-  spec.authors       = ["Luis Mendes"]
-  spec.email         = ["lmmendes@gmail.com"]
+  spec.authors       = ["Pedro Somsen", "Luis Mendes"]
+  spec.email         = ["pm.somsen@gmail.com", "lmmendes@gmail.com"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
